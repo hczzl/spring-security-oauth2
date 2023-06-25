@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oauth2-server-jdbc" />
+        <module name="oauth2-resource" />
+        <module name="auth-server" />
+        <module name="oauth2-jwt-demo" />
+        <module name="gateway-server" />
+        <module name="product-server" />
+        <module name="oauth2-demo" />
+        <module name="oauth2-sso-client2-demo" />
+        <module name="jwtdemo" />
+        <module name="order-server" />
+        <module name="oauth2-sso-client-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auth-server" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="jwtdemo" target="1.8" />
+      <module name="mall-order" target="1.8" />
+      <module name="mall-user" target="1.8" />
+      <module name="oauth2-demo" target="1.8" />
+      <module name="oauth2-demo2" target="1.8" />
+      <module name="oauth2-demo3" target="1.8" />
+      <module name="oauth2-jwt-demo" target="1.8" />
+      <module name="oauth2-resource" target="1.8" />
+      <module name="oauth2-server" target="1.8" />
+      <module name="oauth2-server-jdbc" target="1.8" />
+      <module name="oauth2-sso-client-demo" target="1.8" />
+      <module name="oauth2-sso-client2-demo" target="1.8" />
+      <module name="order-server" target="1.8" />
+      <module name="product-server" target="1.8" />
+      <module name="spring-cloud-security-demo" target="1.8" />
+      <module name="spring-security-oauth2" target="1.8" />
+      <module name="vip-oatuh2" target="1.8" />
+      <module name="vip-spring-security-oauth2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="auth-server" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="jwtdemo" options="-parameters" />
+      <module name="mall-order" options="-parameters" />
+      <module name="mall-user" options="-parameters" />
+      <module name="oauth2-demo" options="-parameters" />
+      <module name="oauth2-demo2" options="-parameters" />
+      <module name="oauth2-jwt-demo" options="-parameters" />
+      <module name="oauth2-resource" options="-parameters" />
+      <module name="oauth2-server" options="-parameters" />
+      <module name="oauth2-server-jdbc" options="-parameters" />
+      <module name="oauth2-sso-client-demo" options="-parameters" />
+      <module name="oauth2-sso-client2-demo" options="-parameters" />
+      <module name="order-server" options="-parameters" />
+      <module name="product-server" options="-parameters" />
+      <module name="spring-cloud-security-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

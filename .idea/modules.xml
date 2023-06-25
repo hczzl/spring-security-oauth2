@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-security-demo/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/spring-cloud-security-demo/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-security-demo/gateway-server/gateway-server.iml" filepath="$PROJECT_DIR$/spring-cloud-security-demo/gateway-server/gateway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwtdemo/jwtdemo.iml" filepath="$PROJECT_DIR$/jwtdemo/jwtdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-demo/oauth2-demo.iml" filepath="$PROJECT_DIR$/oauth2-demo/oauth2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-jwt-demo/oauth2-jwt-demo.iml" filepath="$PROJECT_DIR$/oauth2-jwt-demo/oauth2-jwt-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/oauth2-resource/oauth2-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-server-jdbc/oauth2-server-jdbc.iml" filepath="$PROJECT_DIR$/oauth2-server-jdbc/oauth2-server-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-client-demo/oauth2-sso-client-demo.iml" filepath="$PROJECT_DIR$/oauth2-sso-client-demo/oauth2-sso-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oauth2-sso-client2-demo/oauth2-sso-client2-demo.iml" filepath="$PROJECT_DIR$/oauth2-sso-client2-demo/oauth2-sso-client2-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-security-demo/order-server/order-server.iml" filepath="$PROJECT_DIR$/spring-cloud-security-demo/order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-security-demo/product-server/product-server.iml" filepath="$PROJECT_DIR$/spring-cloud-security-demo/product-server/product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-security-demo/spring-cloud-security-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-security-demo/spring-cloud-security-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-spring-security-oauth2.iml" filepath="$PROJECT_DIR$/vip-spring-security-oauth2.iml" />
+    </modules>
+  </component>
+</project>
